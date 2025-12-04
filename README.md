@@ -1,2 +1,3 @@
 # sql-shipping-database-system
-Relational database project for a parcel shipping system, including table design, integrity constraints, triggers that enforce business rules, a stored procedure for shipment queries, and test cases. Built using SQL Server.
+This project was developed for a university database course and models a complete shipping workflow, including customers, packages, routes, transport units, and delivery records.
+It includes business logic implemented through triggers, constraints, and a stored procedure to retrieve full shipment details.
